@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidesarp&label=Profile%20views&color=0e75b6&style=flat" alt="zahidesarp" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:sarpzahide@gmail.com</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
